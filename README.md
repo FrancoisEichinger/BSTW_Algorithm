@@ -1,5 +1,6 @@
 # BSTW_Algorithm
-Implementation of the Bentley, Sleator, Tarjan and Wei compression algorithm
+Implementation of the Bentley, Sleator, Tarjan and Wei compression algorithm in
+C
 
 ## How to use
 - Edit the file 'file.txt' containing the data you wish to encode
@@ -8,7 +9,7 @@ Implementation of the Bentley, Sleator, Tarjan and Wei compression algorithm
 
 ## Output example
 if the input is 'WABBAWABBA', then the terminal output will be
-
+```bash
 ENCODING STATES :  
 1W  
 1W2A  
@@ -32,3 +33,4 @@ WABBAWA
 WABBAWAB  
 WABBAWABB  
 WABBAWABBA  
+```
