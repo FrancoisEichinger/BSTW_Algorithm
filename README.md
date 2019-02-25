@@ -1,11 +1,10 @@
 # BSTW_Algorithm
-Implementation of the Bentley, Sleator, Tarjan and Wei compression algorithm in
-C
+Implementation of the Bentley, Sleator, Tarjan and Wei compression algorithm in C.
 
 ## How to use
 - Edit the file 'file.txt' containing the data you wish to encode
 - compile the program via 'make run'
-- Launch it via './bstw' (the program takes no other argument)
+- Execute it via './bstw' (the program takes no other argument)
 
 ## Output example
 if the input is 'WABBAWABBA', then the terminal output will be
